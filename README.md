@@ -1,6 +1,5 @@
 
 ## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=183&lines=Junior+front+end+developer+supported+highly++learning+skills;HTML+5+CSS+3+CSS+Frameworks+-%3E+advanced;UI+Frameworks++React+JS%2C+React+Hooks%2C+React+Context;State+Management+Redux+Toolkit;FireBase%2C+Mongo%2C++Cassandra+-%3E+skills)](https://git.io/typing-svg)
 
 # Hi, I'm Fidan Kerimova! 👋
 
