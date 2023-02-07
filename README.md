@@ -7,26 +7,19 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidan-kerimova-229301211/)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on personal company's project.
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Typescript.
 
-👯‍♀️ I'm looking to collaborate on...
+💬 Ask me new things about web development!
 
-🤔 I'm looking for help with...
+📫 My email address: Fidan.kerimova56@gmail.com
 
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+⚡️ “It is never too late to be what you might have been.” 
 
 
 ## Badges
